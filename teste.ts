@@ -1,5 +1,5 @@
-function teste (): number {
-  return 1
-}
-
-teste()
+describe('SignUp controller', ()=> {
+  test('', ()=> {
+      
+  })
+})
