@@ -1,5 +1,5 @@
-describe('SignUp controller', ()=> {
-  test('', ()=> {
-      
+describe('SignUp controller', () => {
+  test('', () => {
+
   })
 })
